@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GrzesiekO
-- 👀 I’m interested in Cloud
-- 🌱 I’m currently learning CPP
-- 💞️ I’m looking to collaborate on UE4, CPP, AWS SDKs
+- 👀 I’m interested in Cloud but these arem ostly Linux Servers that I love.
+- 🌱 I’m currently learning CPP and Blueprints for UE
+- 💞️ I’m looking to collaborate on UE5, CPP, AWS SDKs
 
 <!---
 GrzesiekO/GrzesiekO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
